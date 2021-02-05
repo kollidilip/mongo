@@ -1,0 +1,14 @@
+        {
+            "Title" : "Title1",
+            "Description" : "first description",
+            "Star rating" : 2,
+            "Food Type tag" : "Indian",
+            "user comments" : 
+            [
+                {"user1" : "yummy"},
+                {"user2" : "delecious"},
+                {"user3" : "tasty"}
+            ],
+            "directions" : ["step1","step2","step3"],
+            "ingredients" : [{"name": "item1","quantity": 0.5},{"name": "item2","quantity": 5},{"name": "item3","quantity": 2},{"name": "item4","quantity": 0.25}]
+        }
